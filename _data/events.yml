@@ -60,6 +60,9 @@
 
 - name: "[BSides Liverpool](https://twitter.com/BsidesLivrpool/status/1235988839623266304)"
   status: postponed until later this year
+  
+- name: "[BSides Orlando](https://2020.bsidesorlando.org/)"
+  status: postponed until later this year
 
 - name: "[California Association for Behavior Analysis Conference](https://calaba.org/conference)"
   status: cancelled
